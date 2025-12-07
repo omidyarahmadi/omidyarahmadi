@@ -53,13 +53,7 @@ Focused on writing maintainable code, improving developer workflow, and helping 
   <img src="https://streak-stats.demolab.com?user=omidyarahmadi&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omidyarahmadi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omidyarahmadi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
 
 
 ---

@@ -1,15 +1,89 @@
-# 💫 About Me:
-🧪 I’m currently working on<br>Building modern front-end projects, improving my JavaScript skills, and creating clean reusable UI components.<br><br>🤝 I’m looking to collaborate on<br>Front-end projects using HTML, CSS, JavaScript, React, or Next.js — especially UI-driven components and small to mid-scale apps.<br><br>💡 I’m looking for help with<br>Refining best practices in React/Next.js and deepening TypeScript understanding.<br><br>🌱 I’m currently learning<br>Advanced JavaScript, React Hooks & architecture, TypeScript, and Next.js (App Router).<br><br>💬 Ask me about<br>HTML/CSS, responsive layouts, UI components, and modern front-end workflow with Git & GitHub.<br><br>⚡ Fun fact<br>I love turning simple ideas into clean, functional, and minimal user interfaces.
+<h1 align="center">Hi, I'm Omid 👋</h1>
+<h3 align="center">Front-End Developer • UI Implementer • Self-Taught Engineer</h3>
 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omidyarahmadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omidyarahmadi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omidyarahmadi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+Passionate about building clean, modern, and responsive web interfaces.  
+Focused on writing maintainable code, improving developer workflow, and helping others learn front-end development.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omidyarahmadi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 💻 Front-End Developer focused on **modern web development**
+- 🎯 Specialized in **JavaScript, React, TypeScript, and Next.js**
+- 🌱 Currently improving my skills in **Front-End architecture & UI component systems**
+- 📚 Self-taught developer who believes in consistent practice & real-world projects
+- 🔥 Interested in teaching & helping others transition into web development
+- 🧩 Love converting UI ideas into clean, scalable, and functional code
+
+---
+
+## 🛠 Tech Stack
+
+### **Languages**
+- HTML5  
+- CSS3  
+- JavaScript (ES2025)  
+- TypeScript  
+
+### **Frameworks & Libraries**
+- React  
+- Next.js  
+- TailwindCSS  
+- Bootstrap  
+- Vite  
+
+### **Tools**
+- Git & GitHub  
+- Prettier  
+- Postman  
+- Figma  
+
+### **Deployment**
+- Netlify  
+- Vercel  
+- GitHub Pages  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omidyarahmadi&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omidyarahmadi&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omidyarahmadi&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🧩 What I'm Working On
+- Building real-world front-end mini-projects  
+- Creating clean, reusable UI components  
+- Documenting my learning journey for others  
+- Preparing to create educational content & tutorials  
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://github.com/omidyarahmadi"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+## 🧠 Philosophy
+> *“Better code comes from better thinking. Great developers simplify complex ideas — not complicate simple ones.”*
+
+---
+
+### ⭐ If you like my work, feel free to star my repositories!

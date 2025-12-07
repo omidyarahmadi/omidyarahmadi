@@ -45,16 +45,6 @@ Focused on writing maintainable code, improving developer workflow, and helping 
 - Vercel  
 - GitHub Pages  
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=omidyarahmadi&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-
-
 
 ---
 
